@@ -1,4 +1,4 @@
-# WEBSITE PENGADUAN MASYARAKAT
+# WEBSITE WEB-KASIR
 
 Berikut struktur folder dan file dalam website ini:
 
